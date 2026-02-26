@@ -8445,6 +8445,9 @@ span {
   border-radius: 8px;
   padding: 30px;
   position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 @media (max-width: 1399px) {

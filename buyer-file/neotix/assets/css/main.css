@@ -770,6 +770,10 @@ span {
   display: block;
 }
 
+.search_wrapper .search_top .search_logo img {
+  max-width: 100%;
+}
+
 @media (max-width: 575px) {
   .search_wrapper .search_top .search_logo {
     max-width: 150px;
